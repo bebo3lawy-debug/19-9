@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" role="img" aria-label="مساج منزلي">
+  <rect width="16" height="16" rx="3.5" fill="#070706"/>
+  <path fill="#d4af37" d="M8 1.8C8 1.8 4 7.1 4 10a4 4 0 0 0 8 0c0-2.9-4-8.2-4-8.2z"/>
+  <circle cx="6.7" cy="9.1" r="1.15" fill="#f3ead8"/>
+</svg>
